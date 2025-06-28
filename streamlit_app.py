@@ -1,4 +1,3 @@
-!ls
 
 app_code ="""
 import streamlit as st
